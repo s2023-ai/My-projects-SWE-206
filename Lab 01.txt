@@ -1,5 +1,1 @@
 Lab 01
-g
-dd
-ss
-file
